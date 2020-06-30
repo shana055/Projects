@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="zoo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zoo">
+				<Option output="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/zoo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shana/Desktop/c++/lessons/zoo/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 zoo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zoo/fast">
+				<Option output="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/zoo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/shana/Desktop/c++/lessons/zoo/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 zoo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/shana/Desktop/c++/lessons/zoo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/animal.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/animal.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/bird.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/bird.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/clownfish.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/clownfish.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/dog.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/dog.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/fish.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/fish.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/goose.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/goose.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/imammal.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/lion.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/lion.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/main.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/mammal.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/mammal.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/monkey.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/monkey.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/shark.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/shark.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/snowy_owl.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/snowy_owl.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/whale.cpp">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/whale.h">
+			<Option target="zoo"/>
+		</Unit>
+		<Unit filename="/home/shana/Desktop/c++/lessons/zoo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

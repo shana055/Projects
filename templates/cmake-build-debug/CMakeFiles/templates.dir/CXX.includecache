@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shana/Desktop/c++/lessons/templates/bubbleSort.cpp
+bubbleSort.h
+/home/shana/Desktop/c++/lessons/templates/bubbleSort.h
+
+/home/shana/Desktop/c++/lessons/templates/bubbleSort.h
+

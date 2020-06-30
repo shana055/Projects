@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/templates.dir/bubbleSort.cpp.o CMakeFiles/templates.dir/main.cpp.o CMakeFiles/templates.dir/max.cpp.o CMakeFiles/templates.dir/myNumber.cpp.o  -o templates 
